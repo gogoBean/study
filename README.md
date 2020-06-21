@@ -33,7 +33,7 @@
   - Express常用API
   - Express路由模块
   - artTemplate，eEjs模板引擎
-  - RESTFul 风格AP
+  - RESTFul 风格API
   - node 操作nosql 数据库 moogodb，ORM 框架moogose
   - node 操作关系型 数据库 MySQL
   - 通过 node 和 sql 语句的配合对数据库进行增删改查。
